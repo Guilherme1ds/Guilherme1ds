@@ -43,6 +43,14 @@ Sou um estudante de Desenvolvimento de Sistemas do <b>SENAI Luiz Varga</b> (Lime
 
 <br>
 
+### 👾 Análise de Commits (Snake.exe)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Guilherme1ds&theme=onedark&no-frame=true&no-bg=true&margin-w=10&width=100%" alt="Troféus" />
