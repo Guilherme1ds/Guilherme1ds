@@ -36,16 +36,16 @@ Sou um estudante de Desenvolvimento de Sistemas do <b>SENAI Luiz Varga</b> (Lime
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=fff&bg_color=0D1117" width="48%" alt="Status Gerais LED" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme1ds&show_icons=true&theme=radical&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=fff&bg_color=0D1117" width="48%" alt="Status Gerais LED" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=fff&bg_color=0D1117" width="48%" alt="Linguagens LED" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme1ds&layout=compact&theme=radical&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=fff&bg_color=0D1117" width="48%" alt="Linguagens LED" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=10&width=100%" alt="Troféus LED Panel" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Guilherme1ds&theme=onedark&no-frame=true&no-bg=true&margin-w=10&width=100%" alt="Troféus LED Panel" />
   </a>
 </div>
 
