@@ -60,8 +60,8 @@ Sou um estudante de Desenvolvimento de Sistemas do <b>SENAI Luiz Varga</b> (Lime
     <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn LED Badge" />
   </a>
   <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail LED Badge" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Oficial" />
+</a>
   <a href="https://SEU_PORTFOLIO">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00BFFF" alt="Portfolio LED Badge" />
   </a>
