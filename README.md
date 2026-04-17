@@ -1,22 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá,%20sou%20Guilherme!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20|%20SENAI%20Luiz%20Varga&descAlignY=55&descAlign=62" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINKEDIN" alt="LinkedIn"></a>
-  <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL@gmail.com" alt="Gmail"></a>
-  <a href="https://SEU_PORTFOLIO_OU_INSTAGRAM"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,30&height=220&section=header&text=Bem+Vindo+ao+meu+Perfil!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=ESTUDANTE:%20SENAI%20LUIZ%20VARGA%20&descAlignY=55&descAlign=62&fontColor=fff&stroke=1E90FF&strokeWidth=1" alt="Banner LED Panel" />
 </div>
 
 <br>
 
-### 👨‍💻 Um pouco sobre mim
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Inicializando+sistemas...;Carregando+skills...;Executando+commits...;Focando+no+desenvolvimento..." alt="Typing SVG LED" />
+</div>
 
-Em formação pelo **SENAI Luiz Varga**. Meu foco é transformar lógica e criatividade em sistemas que funcionam de verdade. Quando não estou "codando" ou quebrando a cabeça com algum bug, estou buscando novas ferramentas para otimizar meu fluxo de trabalho.
+<br>
 
-* 🎓 Cursando Técnico em Desenvolvimento de Sistemas;
-* 💡 Focado em construir aplicações escaláveis e interfaces intuitivas;
-* 🤝 Sempre aberto a colaborações em projetos open-source e hackathons;
+### 🛰️ Sobre Mim
+
+<p align="left">
+Sou um estudante de Desenvolvimento de Sistemas do <b>SENAI Luiz Varga</b> (Limeira-SP), focado em construir interfaces intuitivas e códigos limpos. Meu objetivo é transformar dados e lógica em experiências digitais eficientes.
+</p>
+
+- 🎓 Cursando Desenvolvimento de Sistemas;
+- 🌱 Atualmente estudando: <b>Flutter, PHP e Front-End</b>;
+- ⚡ Foco em performance e arquitetura limpa;
+- 🛡️ Aberto a colaborações e novos desafios.
 
 ---
 
@@ -24,31 +27,40 @@ Em formação pelo **SENAI Luiz Varga**. Meu foco é transformar lógica e criat
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,github,figma,vscode&theme=dark" alt="Minhas Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,mysql,git,vscode,figma&theme=dark" alt="Skills LED Icons" />
   </a>
 </div>
-<br>
-<p align="center"><i>(Passe o mouse por cima dos ícones!)</i></p>
 
 ---
 
-### 📊 Meus Status e Troféus
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=fff&bg_color=0D1117" width="48%" alt="Status Gerais LED" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=fff&bg_color=0D1117" width="48%" alt="Linguagens LED" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Troféus" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=10&width=100%" alt="Troféus LED Panel" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 ---
 
+### 🪐 Conexões de Rede
+
 <div align="center">
-  <p>Construído com ☕ e dedicação.</p>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn LED Badge" />
+  </a>
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail LED Badge" />
+  </a>
+  <a href="https://SEU_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00BFFF" alt="Portfolio LED Badge" />
+  </a>
 </div>
