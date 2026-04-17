@@ -27,7 +27,7 @@ Sou um estudante de Desenvolvimento de Sistemas do <b>SENAI Luiz Varga</b> (Lime
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,mysql,git,vscode,figma&theme=dark" alt="Skills LED Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,vscode,figma&theme=dark" alt="Painel de Skills" />
   </a>
 </div>
 
