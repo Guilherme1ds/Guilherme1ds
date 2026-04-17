@@ -45,7 +45,7 @@ Sou um estudante de Desenvolvimento de Sistemas do <b>SENAI Luiz Varga</b> (Lime
 
 ---
 
-### 👾 Análise de Commits (Snake.exe)
+### 👾 Análise de Commits 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Guilherme1ds/Guilherme1ds/output/github-snake-dark.svg" alt="Snake animation" />
