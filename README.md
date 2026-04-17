@@ -45,7 +45,7 @@ Sou um estudante de Desenvolvimento de Sistemas do <b>SENAI Luiz Varga</b> (Lime
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Guilherme1ds&theme=onedark&no-frame=true&no-bg=true&margin-w=10&width=100%" alt="Troféus LED Panel" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Guilherme1ds&theme=onedark&no-frame=true&no-bg=true&margin-w=10&width=100%" alt="Troféus" />
   </a>
 </div>
 
