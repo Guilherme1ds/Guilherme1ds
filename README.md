@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá,%20sou%20[Seu%20Nome]!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20|%20SENAI%20Luiz%20Varga&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá,%20sou%20Guilherme!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20|%20SENAI%20Luiz%20Varga&descAlignY=55&descAlign=62" />
 </div>
 
 <div align="center">
@@ -12,16 +12,15 @@
 
 ### 👨‍💻 Um pouco sobre mim
 
-Sou um entusiasta da tecnologia em formação pelo **SENAI Luiz Varga**. Meu foco é transformar lógica e criatividade em sistemas que funcionam de verdade. Quando não estou "codando" ou quebrando a cabeça com algum bug, estou buscando novas ferramentas para otimizar meu fluxo de trabalho.
+Em formação pelo **SENAI Luiz Varga**. Meu foco é transformar lógica e criatividade em sistemas que funcionam de verdade. Quando não estou "codando" ou quebrando a cabeça com algum bug, estou buscando novas ferramentas para otimizar meu fluxo de trabalho.
 
 * 🎓 Cursando Técnico em Desenvolvimento de Sistemas;
 * 💡 Focado em construir aplicações escaláveis e interfaces intuitivas;
 * 🤝 Sempre aberto a colaborações em projetos open-source e hackathons;
-* 🎮 Curiosidade: **[Ex: Nas horas vagas, sou gamer de carteirinha e estudo design de games]**.
 
 ---
 
-### 🛠️ Meu Arsenal de Tecnologias
+### 🛠️ Tecnologias Utilizadas
 
 <div align="center">
   <a href="https://skillicons.dev">
